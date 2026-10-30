@@ -38,17 +38,19 @@
 - Ночные охотники с лазерами, щупальца-камеры и сети, в которые треножники собирают людей.
 - Повестка в почтовом ящике. Можно подписать её и уйти на фронт, где ждут окопы, пулемёт, ракетница, рация с авиаударами и танк. А можно выбросить и выживать дома.
 - Ежедневник, еда, фонарик, оружие и верстак.
-- **4 концовки:**
+- **5 концовок:**
   1. Выжить в доме
   2. Победить на войне
   3. Стать суперучёным
   4. Стать мутантом
+  5. Стать Праймом
 
 <details>
 <summary>Подсказки к секретным концовкам (спойлеры!)</summary>
 
 - **Суперучёный:** где-то рядом есть пещера с кристаллами. Из них на верстаке можно собрать кое-что очень необычное…
 - **Мутант:** на окраине города стоит атомная станция. Говорят, уран лучше не есть…
+- **Прайм:** к северу от города, за домами, стоит заброшенная мастерская. А за ней скала, в которой светится что-то зелёное…
 
 </details>
 
@@ -65,7 +67,8 @@
 | F | Фонарик |
 | Q | Поесть |
 | R | Перезарядка |
-| 1–8 | Выбор оружия и инструментов |
+| 1–9 | Выбор оружия и инструментов |
+| ПКМ / G / V / H / T | Особые способности (открываются по ходу игры) |
 | Esc | Пауза / меню |
 
 ## 🛠️ О проекте
@@ -78,7 +81,7 @@
 
 ## 🇬🇧 English
 
-**Tripods** (Russian: *Треноги*) is a first-person alien-invasion survival game. On the first day the city goes dark, lightning strikes the same spot 25 times, and a giant war tripod rises from the ground. Hide at home, go to the front, or find your own way out. The game has **4 endings**.
+**Tripods** (Russian: *Треноги*) is a first-person alien-invasion survival game. On the first day the city goes dark, lightning strikes the same spot 25 times, and a giant war tripod rises from the ground. Hide at home, go to the front, or find your own way out. The game has **5 endings**.
 
 - **Windows 10 / 11, 64-bit only.** It won't run on Windows 7/8/8.1, 32-bit Windows, macOS or Linux.
 - **Languages:** English and Russian. You pick the language when you run the installer, and you can change it later in the game menu.
